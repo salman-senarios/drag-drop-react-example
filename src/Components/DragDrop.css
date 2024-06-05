@@ -1,0 +1,25 @@
+.draggable {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin: 5px auto;
+    line-height: 5em;
+}
+.container {
+    width: 80%;
+    height: 800px;
+    margin: auto;
+    padding: 10px;
+}
+.one {
+    width: 15%;
+    height: 800px;
+    border-right: 1px solid black;
+    float: left;
+}
+.two {
+    margin-left: 15%;
+    height: 800px;
+    border: 1px solid red;
+}
+
